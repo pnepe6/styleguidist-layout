@@ -176,7 +176,7 @@
     "react-dom": "^16.3.2",
     "react-test-renderer": "^16.3.2",
     "rollup": "^0.57.1",
-    "rollup-documentation": "^0.0.9",
+    "rollup-documentation": "0.0.9",
     "rollup-plugin-babel": "^3.0.3",
     "rollup-plugin-cleanup": "^2.0.0",
     "rollup-plugin-commonjs": "^9.1.0",
@@ -206,7 +206,8 @@
     "bootstrap-styled": "^1.6.5",
     "classnames": "^2.2.5",
     "prop-types": "^15.6.1",
-    "react-transition-group": "^2.3.1"
+    "react-transition-group": "^2.3.1",
+    "rsg-components": "^3.0.0"
   },
   "peerDependencies": {
     "react": "^16.3.2",

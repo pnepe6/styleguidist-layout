@@ -1,0 +1,1 @@
+export { default as Abbr } from './components/Abbr/index';
